@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+/*h1 { background-color: cyan }*/
+
+h1 {
+    font-family: "Arial", "メイリオ";
+}
+
+home {
+    padding: 5px;
+}
+
+dotweet {
+    width:800px;
+    height:500px;
+    background:#33CCFF;
+    border-radius:30px;
+}
+
+#sidebar {
+    font-family: "Arial", "メイリオ";
+    font-size: 20px;
+    padding: 50px;
+    width: 220px;
+    float: left;
+}
+
+#header2 {
+    font-family: "Arial", "メイリオ";
+    padding: 30px;
+    width: 1000px;
+    float: right;
+}
+
+#content {
+    font-family: "Arial", "メイリオ";
+    padding: 10px;
+    width: 1000px;
+    float: right;
+}
